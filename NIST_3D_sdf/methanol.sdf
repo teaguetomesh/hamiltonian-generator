@@ -1,0 +1,61 @@
+
+  NIST    07011508033D 1   1.00000  -115.71440
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.2309    0.8389    1.5996 H    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6766    0.9866    0.6032 C    0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0261    1.5686    0.0005 H    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7985    0.0004    0.1281 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8856    1.7259    0.6483 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5193    1.2212    1.1795 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2015-07-01
+
+> <CAS.NUMBER>
+67-56-1
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.6927 debye
+
+> <ELECTRONIC.ENERGY>
+-115.714404110 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+348.8619  127.9116
+1068.9408  119.5743
+1098.3888  2.1695
+1184.0904  0.6259
+1400.9258  28.2253
+1511.8705  7.4817
+1525.0356  1.5640
+1541.5891  4.0651
+2995.5698  65.0740
+3037.6359  86.3323
+3131.3242  34.7982
+3754.4269  11.2301
+
+> <ROTATIONAL.CONSTANTS>
+127.19383 GHz
+24.79643 GHz
+23.90757 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Ashley Zhang
+
+$$$$

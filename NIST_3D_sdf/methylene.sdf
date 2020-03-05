@@ -1,0 +1,47 @@
+
+  NIST    06301516343D 1   1.00000   -39.12825
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.5383    0.3706   -0.0002 H    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5962    0.8744    0.3346 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0030   -0.0138    0.6699 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  RAD  1   2   3
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2015-06-30
+
+> <CAS.NUMBER>
+2465-56-7
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.8741 debye
+
+> <ELECTRONIC.ENERGY>
+-39.1282497590 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+1463.2567  3.1992
+2874.5150  89.6614
+2943.1199  131.3434
+
+> <ROTATIONAL.CONSTANTS>
+568.92099 GHz
+339.50347 GHz
+212.62159 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Avi Newman
+
+$$$$

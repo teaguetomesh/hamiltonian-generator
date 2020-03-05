@@ -1,0 +1,42 @@
+
+  NIST    06171415253D 1   1.00000  -920.34986
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.0264   -0.0155    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7330    1.0194    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2014-06-17
+
+> <CAS.NUMBER>
+7782-50-5
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+0.0000 debye
+
+> <ELECTRONIC.ENERGY>
+-920.349858852 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+519.5740  0.0000
+
+> <ROTATIONAL.CONSTANTS>
+0.0000000 GHz
+6.9372459 GHz
+6.9372459 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Ethan Ho
+
+$$$$

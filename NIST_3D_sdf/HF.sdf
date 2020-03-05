@@ -1,0 +1,48 @@
+Hydrofluoric acid
+  NIST    06271311373D 1   1.00000  -100.42017
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.0661    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9999    0.0000    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2013-06-27
+
+> <CAS.NUMBER>
+7664-39-3
+
+> <SYNONYMS>
+Hydrofluoric acid
+Alsurf 45
+Anhydrous hydrofluoric acid
+Antisal 2B
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.8594 debye
+
+> <ELECTRONIC.ENERGY>
+-100.420171837 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+3974.7210  62.1684
+
+> <ROTATIONAL.CONSTANTS>
+0.0000000 GHz
+605.5846632 GHz
+605.5846632 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Michael Liou
+
+$$$$

@@ -1,0 +1,46 @@
+
+  NIST    07081513483D 1   1.00000  -399.38544
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   17.0063   10.1722    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   15.9957    9.2777    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+   17.9486    9.2060    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2015-07-08
+
+> <CAS.NUMBER>
+7783-06-4
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.4267 debye
+
+> <ELECTRONIC.ENERGY>
+-399.385435935 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+1250.5665  4.9120
+2694.7804  11.1197
+2715.2784  14.4729
+
+> <ROTATIONAL.CONSTANTS>
+307.52176 GHz
+262.61348 GHz
+141.64948 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Ashley Zhang
+
+$$$$
